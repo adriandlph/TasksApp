@@ -1,2 +1,7 @@
 # TasksApp
-Web application for TaskMsrv project.
+Web application on React for TaskMsrv project.
+
+Technologies used:
+- React
+- Tailwind CSS
+- React Router
