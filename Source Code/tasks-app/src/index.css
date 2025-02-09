@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer component {
+    /**
+     * Default background
+     */
+    .bg-page {
+        @apply bg-zinc-50;
+        @apply dark:bg-stone-900;    
+    }
+}
+
+body {
+    @apply bg-page;
+}
+
+
+  
